@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Syeda Maham Fahim</h1>
-<h3 align="center">A passionate fullstack developer and Telecommunication Engineer from Pakistan.</h3>
+<h3 align="center">A passionate fullstack developer and Blockchain Engineer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedamahamfahim&label=Profile%20views&color=0e75b6&style=flat" alt="syedamahamfahim" /> </p>
+
+<h1> About Me </h1> 
+I am Syeda Maham Fahim, doing <strong>Telecommunication Engineering </strong> from NED University of Karachi, Pakistan. <br/>
+I am a <strong>Full-stack developer </strong> with 2+ years of experience delivering full-stack web and advisory services to high value clients. Worked with both the front and back ends of a website or application to provide end-to-end services. Worked closely with UI/UX team on figma/wire frame to build amazing user-friendly websites. Love building quality websites and applications using JavaScript and Python. Looking for an opportunity in Blockchain development <br/><br/>
 
 - 🌱 I’m currently learning **Blockchain**
 
