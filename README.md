@@ -9,7 +9,7 @@ I am a <strong>Full-stack developer </strong> with 2+ years of experience delive
 
 - 🌱 I’m currently learning **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://syedamahamfahim.netlify.app/](https://syedamahamfahim.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://www.syeda-maham-fahim.engineer/](https://www.syeda-maham-fahim.engineer/)
 
 - 💬 Ask me about **react,django,vue,python,mern stack**
 
