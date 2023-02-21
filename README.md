@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedamahamfahim&label=Profile%20views&color=0e75b6&style=flat" alt="syedamahamfahim" /> </p>
 
 <h1> About Me </h1> 
-I am Syeda Maham Fahim, doing <strong>Telecommunication Engineering </strong> at NED University of Karachi, Pakistan. <br/>
-I am a <strong>Full-stack developer </strong> with 2+ years of experience delivering full-stack web and advisory services to high value clients. Worked with both the front and back ends of a website or application to provide end-to-end services. Worked closely with UI/UX team on figma/wire frame to build amazing user-friendly websites. Love building quality websites and applications using JavaScript and Python. Looking for an opportunity in Blockchain development <br/><br/>
+My name is Syeda Maham Fahim and I am currently pursuing a degree in Telecommunication Engineering from NED University in Karachi, Pakistan. I have over two years of experience as a Full-stack developer, delivering comprehensive web and advisory services to esteemed clients. My expertise lies in handling both the front-end and back-end aspects of websites or applications, ensuring end-to-end solutions. I collaborate closely with UI/UX teams to develop user-friendly websites, using figma and wireframe tools. My passion lies in creating high-quality websites and applications using JavaScript and Python. I am currently interested in pursuing a career in Blockchain development and actively seeking opportunities to further explore this field.
 
 - 🌱 I’m currently learning **Blockchain**
 
