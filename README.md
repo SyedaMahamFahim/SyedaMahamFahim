@@ -26,6 +26,6 @@ My name is Syeda Maham Fahim and I am currently pursuing a degree in Telecommuni
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedamahamfahim&show_icons=true&locale=en&layout=compact" alt="syedamahamfahim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedamahamfahim&show_icons=true&locale=en" alt="syedamahamfahim" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedamahamfahim&" alt="syedamahamfahim" /></p>
