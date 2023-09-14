@@ -1,32 +1,53 @@
 <h1 align="center">Hi 👋, I'm Syeda Maham Fahim</h1>
-<h3 align="center">A passionate fullstack developer from Pakistan.</h3>
-
+<h3 align="center">A passionate fullstack developer from Pakistan. </h3>
+<h4 align="center">I'm on a mission to make your Software industry experience fun, informative, and maybe a tad unconventional </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedamahamfahim&label=Profile%20views&color=0e75b6&style=flat" alt="syedamahamfahim" /> </p>
 
 <h1> About Me </h1> 
-My name is Syeda Maham Fahim and I am currently pursuing a degree in Telecommunication Engineering from NED University in Karachi, Pakistan. I have over two years of experience as a Full-stack developer, delivering comprehensive web and advisory services to esteemed clients. My expertise lies in handling both the front-end and back-end aspects of websites or applications, ensuring end-to-end solutions. I collaborate closely with UI/UX teams to develop user-friendly websites, using figma and wireframe tools. My passion lies in creating high-quality websites and applications using JavaScript and Python. I am currently interested in pursuing a career in Blockchain development and actively seeking opportunities to further explore this field.
 
-- 🎓 Senior year student of Telecommunication Engineering at NED University, Karachi Pakistan
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🔭 I'm working on some secret stuff.
-- 🤝 I’m available for freelancing.
-- 📝 I regularly write articles on Blog site 
-- 💬 Ask me about ****
-
+- 🎓 **Formal Education**: Senior year student of Telecommunication Engineering at NED University, Karachi Pakistan
+- 🤔 **Goal**: Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 **Current Work**:I'm working on some secret stuff.
+- 🤝 **Wants to work**: I’m available for freelance work.
+- 📝 **Share Knowledge**: I regularly write articles on my Blog site.
+- 🤷‍♂️ **Ask me about anything, and I'll Google it for you! 😎**
+- 🌟 **Superpowers**: Googling, meme-making, and solving the mysteries of the universe (or at least attempting to).
+- 🤖 **Fun Fact**: I have a 99.9% success rate of finding obscure information and a 100% commitment to keeping things light and entertaining.
 - 📫 How to reach me **syedamahamfahim@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syedamahamfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedamahamfahim" height="30" width="40" /></a>
-<a href="https://fb.com/syedamaham.fahim.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syedamaham.fahim.7" height="30" width="40" /></a>
-<a href="https://medium.com/@syedamahamfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@syedamahamfahim" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+<h1> Home of Intelligent Chatter 😄📚 </h1>
+
+- 🎓 This is where I pour out my thoughts and insights to share what I know. Think of it as my virtual library but with more personality! Visit [****https://syedamaham.dev/****](https://www.syedamaham.dev/) to dive into a world of articles, ideas, and maybe a few chuckles along the way. 🚀💡
+
+- 💬 Don't be shy to leave a **comment or send a message** if something sparks your curiosity or if you'd like to chat about anything under the sun. I'm always up for some friendly banter and brainstorming!
+
+
+<h1> Check My GitHub Stats 📊</h1>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedamahamfahim&show_icons=true&locale=en&layout=compact" alt="syedamahamfahim" /></p>
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedamahamfahim&" alt="syedamahamfahim" /></p>
+
+
+<h1 align="left">Languages 🌎</h1>
+
+- **JavaScript** is how I pay the bills (yes, I charge it on my JavaScript card). 💰
+- I conquer interviews with the power of **JAVA** (cue the dramatic music) 💀🐱‍💻☕
+- I make things happen automatically with **Python** (yes, I'm friends with snakes, and they do my bidding) 🐍🤖
+- On those days when I need a challenge, I descend into the **PHP** underground and customize CMS (it's like coding spelunking) 😷
+- I'm the digital dealmaker with **Solidity** – turning code into contracts one blockchain at a time! 💼🔗
+
+<h1 align="left">Tools🛠️</h1>
+
+- I'm a certified **Google Ninja!** 🕶️ 
+- I'll wield any tool, as long as it's got docs and Google by my side. Ahh, thank goodness for my legendary Googling skills!" 😄🔍🛠️
+
+
+<h1 align="left">😂 Meme of the Day</h1>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<h1 align="left">Let's Be Tech Buds! 🚀 Connect and Get to Know Me 😄🔌</h1>
+<p align="left">
+<a href="https://linkedin.com/in/syedamahamfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syedamahamfahim" height="30" width="40" /></a>
+<a href="https://medium.com/@syedamahamfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@syedamahamfahim" height="30" width="40" /></a>
+</p>
