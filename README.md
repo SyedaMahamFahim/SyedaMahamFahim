@@ -5,15 +5,24 @@
 
 <h1> About Me </h1> 
 
-- 🎓 **Formal Education**: Senior year student of Telecommunication Engineering at NED University, Karachi Pakistan
-- 🤔 **Goal**: Exploring new technologies and developing software solutions and quick hacks.
-- 🔭 **Current Work**:I'm working on some secret stuff.
-- 🤝 **Wants to work**: I’m available for freelance work.
-- 📝 **Share Knowledge**: I regularly write articles on my Blog site.
+- 🎓 **Formal Education:** Senior year student of Telecommunication Engineering at NED University, Karachi, Pakistan.
+
+- 🤔 **Goal:** Exploring new technologies and developing software solutions and quick hacks.
+
+- 🔭 **Current Work:** I'm working on some secret stuff.
+
+- 🤝 **Wants to work:** I’m available for freelance work.
+
+- 📝 **Share Knowledge:** I regularly write articles on my Blog site.
+
 - 🤷‍♂️ **Ask me about anything, and I'll Google it for you! 😎**
-- 🌟 **Superpowers**: Googling, meme-making, and solving the mysteries of the universe (or at least attempting to).
-- 🤖 **Fun Fact**: I have a 99.9% success rate of finding obscure information and a 100% commitment to keeping things light and entertaining.
-- 📫 How to reach me **syedamahamfahim@gmail.com**
+
+- 🌟 **Superpowers:** Googling, meme-making, and solving the mysteries of the universe (or at least attempting to).
+
+- 🤖 **Fun Fact:** I have a 99.9% success rate of finding obscure information and a 100% commitment to keeping things light and entertaining.
+
+- 📫 **How to reach me:** You can contact me at **syedamahamfahim@gmail.com**.
+
 
 
 <h1> Home of Intelligent Chatter 😄📚 </h1>
