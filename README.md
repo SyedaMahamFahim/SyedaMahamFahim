@@ -6,11 +6,12 @@
 <h1> About Me </h1> 
 My name is Syeda Maham Fahim and I am currently pursuing a degree in Telecommunication Engineering from NED University in Karachi, Pakistan. I have over two years of experience as a Full-stack developer, delivering comprehensive web and advisory services to esteemed clients. My expertise lies in handling both the front-end and back-end aspects of websites or applications, ensuring end-to-end solutions. I collaborate closely with UI/UX teams to develop user-friendly websites, using figma and wireframe tools. My passion lies in creating high-quality websites and applications using JavaScript and Python. I am currently interested in pursuing a career in Blockchain development and actively seeking opportunities to further explore this field.
 
-- 🌱 I’m currently learning **Blockchain**
-
-- 👨‍💻 All of my projects are available at [https://www.syeda-maham-fahim.engineer/](https://www.syeda-maham-fahim.engineer/)
-
-- 💬 Ask me about **react,django,vue,python,mern stack**
+- 🎓 Senior year student of Telecommunication Engineering at NED University, Karachi Pakistan
+- 🤔 Exploring new technologies and developing software solutions and quick hacks.
+- 🔭 I'm working on some secret stuff.
+- 🤝 I’m available for freelancing.
+- 📝 I regularly write articles on Blog site 
+- 💬 Ask me about ****
 
 - 📫 How to reach me **syedamahamfahim@gmail.com**
 
