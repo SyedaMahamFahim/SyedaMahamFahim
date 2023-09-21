@@ -43,7 +43,6 @@
 - **JavaScript** is how I pay the bills (yes, I charge it on my JavaScript card). 💰
 - I conquer interviews with the power of **JAVA** (cue the dramatic music) 💀🐱‍💻☕
 - I make things happen automatically with **Python** (yes, I'm friends with snakes, and they do my bidding) 🐍🤖
-- On those days when I need a challenge, I descend into the **PHP** underground and customize CMS (it's like coding spelunking) 😷
 - I'm the digital dealmaker with **Solidity** – turning code into contracts one blockchain at a time! 💼🔗
 
 <h1 align="left">Tools🛠️</h1>
