@@ -6,9 +6,6 @@
 <h1> About Me 😄 </h1> 
 
 - 🎓 **Formal Education:** Senior year student of Telecommunication Engineering at NED University, Karachi, Pakistan.
-
-- 🤔 **Goal:** Exploring new technologies and developing software solutions and quick hacks.
-
 - 🤝 **Wants to work:** I’m available for freelance work.
 
 - 📝 **Share Knowledge:** I regularly write articles on my Blog site.
@@ -42,8 +39,6 @@
 
 <h1 align="left">Connect and Get to Know Me </h1>
 <a href="https://www.syedamaham.dev/profiles" target="_blank">https://www.syedamaham.dev/profiles</a>
-<h1 align="left">😂 Meme of the Day</h1>
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 
