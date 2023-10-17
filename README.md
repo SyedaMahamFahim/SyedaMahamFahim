@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syeda Maham Fahim</h1>
-<h3 align="center">A passionate fullstack developer from Pakistan. </h3>
-<h4 align="center">I'm on a mission to make your Software industry experience fun, informative, and maybe a tad unconventional </h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedamahamfahim&label=Profile%20views&color=0e75b6&style=flat" alt="syedamahamfahim" /> </p>
+
 
 <h1> About Me 😄 </h1> 
 
