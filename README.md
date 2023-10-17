@@ -13,22 +13,13 @@
 - 📫 **How to reach me:** You can contact me at **syedamahamfahim@gmail.com**.
 
 
-
-
 <h1> Read My Lastest Blog 📚 </h1>
 
 🎓 Visit Portfolio and Blog website [****https://syedamaham.dev/****](https://www.syedamaham.dev/) 🚀💡 <br/>
 Ⓜ  Visit Medium [****https://medium.com/@syedamahamfahim/****](https://medium.com/@syedamahamfahim/)
 
-<h1 align="left">Languages, Tools, Libraries, Frameworks 🌎</h1>
-
-- 💫 Languages -------> JavaScript, Python, Java,Solidity
-- 🌐 Web ----------> React.js, Next.js , Vue.js , Node.js, Nestjs, Express.js, Django , Flask, Docker, 
- MongoDB, PostgreSQL, Twilind
-- 🅱 Blockchain ---> Ethereum, Smart contracts, Hardhat, Truffle, Web3/Ethers, Hardhat, IPFS, 
- Deployment, Web3.0 integration
-- ☁ Cloud-based --> AWS, Vercel, Digital Ocean, Netlify,
-
+<h1 align="left">Profiles</h1>
+<a href="https://www.syedamaham.dev/profiles" target="_blank">https://www.syedamaham.dev/profiles</a>
 
 <h1> Check My GitHub Stats 📊</h1>
 
@@ -37,8 +28,7 @@
 
 
 
-<h1 align="left">Connect and Get to Know Me </h1>
-<a href="https://www.syedamaham.dev/profiles" target="_blank">https://www.syedamaham.dev/profiles</a>
+
 
 
 
