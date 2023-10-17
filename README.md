@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syeda Maham Fahim</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedamahamfahim&label=Profile%20views&color=0e75b6&style=flat" alt="syedamahamfahim" /> </p>
 
 
 <h1> About Me 😄 </h1> 
