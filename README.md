@@ -4,7 +4,7 @@
 
 <h1> About Me 😄 </h1> 
 
-- 🎓 **Formal Education:** Senior year student of Telecommunication Engineering at NED University, Karachi, Pakistan.
+- 🎓 **Formal Education:** Telecommunications Engineer.
 - 🤝 **Wants to work:** I’m available for freelance work.
 
 - 📝 **Share Knowledge:** I regularly write articles on my Blog site.
