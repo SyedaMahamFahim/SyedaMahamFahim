@@ -20,10 +20,7 @@
 <h1 align="left">Profiles</h1>
 <a href="https://www.syedamaham.dev/profiles" target="_blank">https://www.syedamaham.dev/profiles</a>
 
-<h1> Check My GitHub Stats 📊</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedamahamfahim&show_icons=true&locale=en&layout=compact" alt="syedamahamfahim" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedamahamfahim&" alt="syedamahamfahim" /></p>
 
 
 
